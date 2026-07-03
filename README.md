@@ -211,7 +211,7 @@ ORDER BY TABLE_NAME, ORDINAL_POSITION;
 
 Таблица первичных ключей базы данных Sakila
 
-![task2](screenshots/task2-table.png)
+![task2](screenshots/tsk2-table.png)
 
 ER-диаграмма
 ER-диаграмма базы данных Sakila, созданная с помощью MySQL Workbench:
